@@ -18,7 +18,7 @@ Classic chocolate chip cookies recipe, yielding soft, chewy, and deliciously chu
 - 2 tsp pure vanilla extract
 - 2 cups semi-sweet chocolate chips
 
-*Instructions*
+##Instructions
 
 1. Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.
 2. Whisk dry ingredients (flour, baking soda, salt). Set aside.
@@ -27,12 +27,12 @@ Classic chocolate chip cookies recipe, yielding soft, chewy, and deliciously chu
 5. Scoop tablespoon-sized balls onto the prepared baking sheet, leaving 2 inches of space between each cookie.
 6. Bake for 10-12 minutes or until lightly golden brown.
 
-*Tips & Variations*
+##Tips & Variations
 
 - Use high-quality chocolate for the best flavor.
 - Chill the dough for at least 30 minutes for a better texture.
 - Try adding nuts, oats, or espresso powder for added flavor and texture.
 
-*Enjoy!*
+###Enjoy!
 
 Bake, share, and indulge in these scrumptious chocolate chip cookies!
