@@ -1,30 +1,31 @@
 # Mustygenius-chocolate-chip-cookie-
 Here's a sample ReadMe file:
 
-*Product Name: Chocolate Chip Cookie Companion*
+<h2>Product Name: Chocolate Chip Cookie Companion</h2>
 
-*Features:*
+<h3>Features:</h3>
+<ol> 
+<li>Delicious chocolate chip cookie recipes</li> 
+<li> Easy-to-follow instructions</li> 
+<li>Customizable ingredients and options</li> 
+<li>  Beautiful, mouth-watering images</li> 
+<li> Mobile-friendly design</li> 
+</ol>
+<h3>Content:</h3>
 
-- Delicious chocolate chip cookie recipes
-- Easy-to-follow instructions
-- Customizable ingredients and options
-- Beautiful, mouth-watering images
-- Mobile-friendly design
-
-*Content:*
-
-- Classic Chocolate Chip Cookie Recipe
-- Variations:
-    - Soft-baked cookies
-    - Crispy cookies
-    - Giant cookies
-    - Stuffed cookies
-- Tips and Tricks:
-    - Using high-quality chocolate
-    - Chilling the dough
-    - Adding nuts or oats
-- Frequently Asked Questions (FAQs)
-
+<strong>Classic Chocolate Chip Cookie Recipe</strong>
+<h3>Variations:</h3>
+<ol>
+    <li>Soft-baked cookies</li>
+    <li>Crispy cookies</li>
+    -<li> Giant cookies</li>
+    <li> Stuffed cookies</ul>
+<strong> Tips and Tricks:</strong>
+    <ol>  Using high-quality chocolate
+    <li> Chilling the dough</li>
+    <li>Adding nuts or oats</li>
+<li>< Frequently Asked Questions (FAQs) </li>
+</ol>-
 *About:*
 
 Welcome to the Chocolate Chip Cookie Companion! This project is dedicated to providing you with the ultimate chocolate chip cookie experience. With our easy-to-follow recipes and customizable options, you'll be baking like a pro in no time. Whether you're a seasoned baker or a beginner, we've got you covered.
