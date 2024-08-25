@@ -1,5 +1,4 @@
 # Mustygenius-chocolate-chip-cookie-
-Here's a sample ReadMe file:
 
 <h2>Product Name: Chocolate Chip Cookie Companion</h2>
 
@@ -49,4 +48,4 @@ Here's a sample ReadMe file:
 
 <h3>Contact:</h3>
 
-<p> For any questions or concerns, please email us at [mustygenius22@gmail.com or call 08146245372]. Happy baking!</p>
+<p> For any questions or concerns, please email us at [<a>mustygenius22@gmail.com or call 08146245372</a>]. Happy baking!</p>
