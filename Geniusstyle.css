@@ -1,48 +1,102 @@
 
-h1{font-size:26px;
-font-weight: bold;
-text-shadow:2px 2px 4px #ff9800;
-text-align:center;}
 
-h2{font-size:26px;
-font-weight: bold;
-text-shadow:2px 2px 4px #ff9800;
-box-shadow:0 0 0 10px rgba(0,0,0,0.1);}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: orange;
+    padding: 10px}
 
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    justify-content: space-between;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.notifications-bar {
+    position: relative;
+}
+
+.toggle-button {
+    background-color: #fff;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.notification-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    z-index: 1;
+}
+
+.toggle-button:hover .notification-content {
+    display: block;
+}
+
+section#showcase {
+    background-color: #F0F0F0;
+    padding: 40px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #ff9800;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #FFA500;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav li {
+        margin: 10px 0;
+    }
+
+    nav ul li {
+        display: inline-block;
+    }
+h3 {
+    text-align: center;
+}
 input{padding:10px;
 font-size:10px;
 border-radius:5px;
 border-shadow:0 0 0 10px rgba(0,0,0,0.1);
 border-fix:px;}
-
-input:focus{border-color:aa#ff7e40}
-
-footer{background-color:#F5DEB3;
-padding:5px;
-text-align:center;
-color:dark;
-font-size:18px;
-border-top:10px solid #ff9800;}
-
-nav{background:orange;
-height:50px;
-width:100%;
-over-line-height: hidden;}
-
-nav ul li{display: inline-block;
-line-height:40px;
-margin 0 5px;}
-nav ul li a{ color:blue;
-font size:17px;
-text-transform:uppercase;}
-section h1{text-align:center;}
-
-input{padding:10px;
-font-size:10px;
-border-radius:5px;
-border-shadow:0 0 0 10px rgba(0,0,0,0.1);
-border-fix:px;}
-h3{text-align:center;}
 
 
 
